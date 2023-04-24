@@ -28,14 +28,14 @@
 }
 
 .carousel-image-3 {
-  background: url('/image3.jpg');
+  background: url('image3.jpg');
   background-size: cover;
 }
 
 #home-heading {
   position: relative;
   min-height: 200px;
-  background: url('/lights.jpg');
+  background: url('lights.jpg');
   background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center;
@@ -54,7 +54,7 @@
 #video-play {
   position: relative;
   min-height: 200px;
-  background: url('/media.jpg');
+  background: url('media.jpg');
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: 0 -300px;
@@ -73,7 +73,7 @@
 
 #page-header {
   height: 200px;
-  background: url('/image1.jpg');
+  background: url('image1.jpg');
   background-position: 0 -360px;
   background-attachment: fixed;
   color: #fff;
